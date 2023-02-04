@@ -7,6 +7,6 @@ export default class MangaNato extends WordPressMadara {
         super.id = 'manga-nato';
         super.label = 'Manga Nato';
         this.tags = [ 'manga', 'webtoon', 'english' ];
-        this.url = 'https://manga-nato.com';
+        this.url = 'https://chapmanganato.com/';
     }
 }
